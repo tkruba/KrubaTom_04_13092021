@@ -7,7 +7,6 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 
 ## Version
 
-[Preview de la version non optimisée](http://www.tkruba.fr/KrubaTom_04_13092021/)
+[Code de la version non optimisée](https://github.com/tkruba/KrubaTom_04_13092021) - [Preview de la version non optimisée](http://www.tkruba.fr/KrubaTom_04_13092021/)
 
-[Code de la version optimisée](https://github.com/tkruba/KrubaTom_04_13092021_Edited)
-[Preview de la version optimisée](http://www.tkruba.fr/KrubaTom_04_13092021_Edited/)
+[Code de la version optimisée](https://github.com/tkruba/KrubaTom_04_13092021_Edited) - [Preview de la version optimisée](http://www.tkruba.fr/KrubaTom_04_13092021_Edited/)
